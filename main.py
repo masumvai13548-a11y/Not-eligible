@@ -8,8 +8,8 @@ from urllib.parse import urlparse
 
 
 # Config
-API_ID = 31186
-API_HASH = "bb7b02ea8ab0dd31e6e37091ee"
+API_ID = 30424087
+API_HASH = "793db34ba0138f1c174434616a681574"
 BOT_TOKEN = "8615257829:AAFsQ8GQyJMvgM8VpmSvU_8PQOIKnYw4-ns" # Replace with your Bot Token
 ADMIN_ID = [6904041366]
 
