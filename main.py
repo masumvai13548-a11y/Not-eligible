@@ -1,4 +1,5 @@
 from telethon import TelegramClient, events, Button
+from telethon.tl.types import KeyboardButtonCallback
 import requests, random, datetime, json, os, re, asyncio, time
 import string
 import hashlib
