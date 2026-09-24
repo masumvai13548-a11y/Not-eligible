@@ -9,10 +9,10 @@ import json
 import re
 from datetime import datetime
 
-API_ID = 12345678
-API_HASH = 'd6ggahag75bgddhajvcdfhq86'
-BOT_TOKEN = '886667658:gahgvak'
-ADMIN_ID = [6148915070]
+API_ID = 30424087
+API_HASH = '793db34ba0138f1c174434616a681574'
+BOT_TOKEN = '8966483289:AAFISyRn3ATFmP7VCbgAm4z0arvWST0NCwg'
+ADMIN_ID = [6904041366]
 CHECKER_API_URL = 'https://web-production-0919d.up.railway.app/shopify'
 
 PREMIUM_USERS_FILE = "premium_users.txt"
